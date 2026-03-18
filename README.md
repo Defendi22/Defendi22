@@ -16,11 +16,15 @@
 
 ## 🧠 Sobre mim
 
-- 🏢 Atualmente trabalhando com desenvolvimento back-end e análise de dados
+- 🏢 Atualmente na **Fractal Dynamics**, trabalhando com desenvolvimento back-end e análise de dados
 - 🐍 Especialista em **Python** com foco em automação, APIs e Machine Learning
 - 📊 Experiência em projetos de **dados públicos** e sistemas de informação em saúde
 - 🤖 Desenvolvendo soluções com **IA aplicada**, como reconhecimento de gestos em tempo real
-- 🏠 Trabalho 100% remoto
+- ☁️ Experiência com **AWS** (deploy, armazenamento e serviços em nuvem)
+- 🗄️ Trabalho com bancos relacionais e NoSQL: **PostgreSQL, MySQL, MongoDB, Redis**
+- 🧱 Desenvolvimento orientado a **princípios SOLID** e **Clean Code**
+- 🧪 Praticante de **TDD** — testes como parte central do ciclo de desenvolvimento
+- 🏠 Trabalho Hidrido ou Remoto
 
 ---
 
@@ -43,10 +47,22 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-### DevOps & Deploy
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps, Cloud & Deploy
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### Boas Práticas
+![SOLID](https://img.shields.io/badge/SOLID-Principles-6DB33F?style=for-the-badge&logo=buffer&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-Test_Driven-blueviolet?style=for-the-badge&logo=pytest&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=codecov&logoColor=white)
 
 ---
 
