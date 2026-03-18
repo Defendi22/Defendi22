@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mim
 
-- 🏢 Atualmente na **Fractal Dynamics**, trabalhando com desenvolvimento back-end e análise de dados
+- 🏢 Atualmente trabalhando com desenvolvimento back-end e análise de dados
 - 🐍 Especialista em **Python** com foco em automação, APIs e Machine Learning
 - 📊 Experiência em projetos de **dados públicos** e sistemas de informação em saúde
 - 🤖 Desenvolvendo soluções com **IA aplicada**, como reconhecimento de gestos em tempo real
